@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\CICD DEVOPS practice\todo-fullstack\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1817011600.index
