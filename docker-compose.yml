@@ -16,7 +16,7 @@ services:
     image: bhargavi079/docker-todob:latest
     container_name: springboot
     ports:
-      - "2030:2009"
+      - "2022:2009"
     depends_on:
       - mysqldb
     restart: on-failure
